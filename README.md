@@ -1,2 +1,3 @@
-# PennyLaneML
-Quantum Maachine Learning using PennyLane
+# Quantum Machine Learning  
+
+Using Pennylane and Pytorch
